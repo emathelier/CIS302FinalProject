@@ -1,0 +1,56 @@
+/* Apply styles to the body element */
+body {
+    background-color:  green;
+    text-align: center;
+  }
+  
+  /* Apply styles to the h1 element */
+  h1 {
+    color: white;
+    margin-top: 50px;
+  }
+  
+  /* Apply styles to the table element */
+  table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 600px;
+    background-color: lightgreen;
+    border-collapse: collapse;
+    border: 1px solid black;
+  }
+  
+  
+  
+  /* Apply styles to the td element */
+  td {
+    border: solid black 1px;
+    text-align: left;
+    padding: 10px;
+    /* Define styles for table data cells */
+  }
+  
+  /* Apply styles to the img element */
+  img {
+    display: block;
+    border: 3px solid blue;
+    padding: 10px;
+    width: 200px;
+    height: 150px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
+  
+  /* Apply styles to the p element */
+  p {
+    color: white;
+    margin-left: 30%;
+    font-size: 20px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+  }
